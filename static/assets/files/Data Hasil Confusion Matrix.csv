@@ -1,0 +1,4 @@
+,pred:Negatif,pred:Netral,pred:Positif
+true:Negatif,1,0,3
+true:Netral,0,0,1
+true:Positif,0,0,15
